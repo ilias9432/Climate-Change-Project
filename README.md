@@ -23,4 +23,3 @@ Based on the hypothesis Unsupervised Machine Learning Model was developed to ide
 The Model uses a K-Means Clustering Algorithm and Traditional Analytical Techniques.
 
 The model produces 2 clusters (Loss Countries, Benefit or Less Loss Countries) ranked by vulnerabilities of the countries.	
-![image](https://user-images.githubusercontent.com/86419962/123279417-1ee96900-d508-11eb-9b11-63a10c80d52f.png)
